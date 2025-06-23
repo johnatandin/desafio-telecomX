@@ -1,4 +1,4 @@
-Análise de Evasão de Clientes (Churn) de uma Empresa de Telecom
+Análise de Evasão de Clientes (Churn) em Empresa de Telecom
 📝 Visão Geral do Projeto
 Este repositório contém uma análise exploratória de dados (AED) completa sobre um conjunto de dados de clientes de uma empresa de telecomunicações. O objetivo principal é investigar os fatores que influenciam a evasão de clientes (conhecida como "Churn") e, a partir dos insights gerados, construir um perfil claro do cliente com maior risco de cancelar o serviço.
 
@@ -55,7 +55,7 @@ Clone o repositório:
 
 Bash
 
-git clone https://github.com/johnatandin/desafio-telecomX/
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 Crie um ambiente virtual (recomendado):
 
